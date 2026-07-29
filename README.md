@@ -32,7 +32,7 @@ Installation
 ```
 .
 ├── main.py   # Main application script  
-├── logo.png  # logo image <a target="_blank" href="https://icons8.com/icon/wOIqJRXQc1Jn/lock">Lock</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+├── logo.png  # logo image (https://icons8.com/icon/wOIqJRXQc1Jn/lock)
 └── README.md 
 ```
 
