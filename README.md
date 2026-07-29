@@ -4,7 +4,7 @@ A simple local password manager built with Tkinter. It stores your credentials (
 ## Features  
 - Logo Display – Shows a branded logo at the top.  
 - Add Credentials – Enter a website, your email/username, and a password.  
-Generate Strong Passwords – Click the Generate Password button to create a random password containing letters, numbers, and symbols – instantly inserted into the password field.  
+- Generate Strong Passwords – Click the Generate Password button to create a random password containing letters, numbers, and symbols – instantly inserted into the password field.  
 - Search Saved Entries – Enter a website name and click Search to retrieve the associated email and password.  
 - Local Storage – All data is saved to a data.json file in the same directory.  
 - Simple GUI – Clean and intuitive interface using Tkinter.
