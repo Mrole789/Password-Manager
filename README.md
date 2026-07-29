@@ -32,7 +32,8 @@ Installation
 ```
 .
 ├── main.py   # Main application script  
-└── logo.png  # logo image (icons8.com/icon/wOIqJRXQc1Jn/lock
+├── logo.png  # logo image (icons8.com/icon/wOIqJRXQc1Jn/lock
+└── README.md 
 ```
 
 ## License  
